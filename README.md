@@ -39,7 +39,7 @@ I'm a full-stack developer strongly on FE, who likes to spend time finding solut
 - ⚡ Fun fact: I keep night shift swithed on at all times   
 
 
-</td><td valign="top" width="50%">
+
 
 
 
