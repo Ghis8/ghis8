@@ -87,14 +87,8 @@ I'm **Ghislain Kongolo**, a full-stack developer with a strong frontend focus, p
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghis8&hide_border=true&theme=tokyonight" width="50%" />
 </div>
 
----
 
-## 🚀 Featured Project
 
-### [G-Shop — Mobile Shopping App](https://github.com/Ghis8/G-Shop)
-> A full-featured mobile shopping application built with modern tooling — seamless UX, real-time updates, and a scalable architecture.
-
----
 
 ## 💬 Let's Connect
 
