@@ -37,7 +37,7 @@ I'm **Ghislain Kongolo**, a full-stack engineer with 5+ years of experience buil
 
 | Project | What it is | Stack |
 |---|---|---|
-| 💊 **PharmaCD** | SaaS platform that helps pharmacists manage inventory and sales. Free plan (1 pharmacy, up to 50 products); Pro plan with unlimited products and up to 4 pharmacies, paid via mobile money or bank | [add stack] |
+| 💊 **PharmaCD** | SaaS platform that helps pharmacists manage inventory and sales. Free plan (1 pharmacy, up to 50 products); Pro plan with unlimited products and up to 4 pharmacies, paid via mobile money or bank | NextJs, NestJs, postgresql |
 | 🛒 [**G-Shop**](https://github.com/Ghis8/G-Shop) | Mobile shopping app (in progress) | Android, Kotlin, Firebase |
 
 ---
